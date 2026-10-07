@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="714.24pt" height="1160.64pt" viewBox="0 0 714.24 1160.64" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-06T00:14:31.192612</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 1160.64 
+L 714.24 1160.64 
+L 714.24 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 2.232 732.096 
+L 712.008 732.096 
+L 712.008 2.232 
+L 2.232 2.232 
+L 2.232 732.096 
+z
+" clip-path="url(#p304c66d7b9)" style="fill: none; stroke: #000000; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 66.96 107.136 
+L 647.28 107.136 
+L 647.28 44.64 
+L 66.96 44.64 
+z
+" clip-path="url(#p304c66d7b9)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 13.392 419.616 
+L 200.88 419.616 
+L 200.88 138.384 
+L 13.392 138.384 
+z
+" clip-path="url(#p304c66d7b9)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 513.36 419.616 
+L 700.848 419.616 
+L 700.848 138.384 
+L 513.36 138.384 
+z
+" clip-path="url(#p304c66d7b9)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 227.664 419.616 
+L 486.576 419.616 
+L 486.576 325.872 
+L 227.664 325.872 
+z
+" clip-path="url(#p304c66d7b9)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 13.392 566.928 
+L 200.88 566.928 
+L 200.88 446.4 
+L 13.392 446.4 
+z
+" clip-path="url(#p304c66d7b9)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 227.664 566.928 
+L 486.576 566.928 
+L 486.576 446.4 
+L 227.664 446.4 
+z
+" clip-path="url(#p304c66d7b9)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 13.392 720.936 
+L 700.848 720.936 
+L 700.848 593.712 
+L 13.392 593.712 
+L 13.392 720.936 
+z
+" clip-path="url(#p304c66d7b9)" style="fill: none; stroke: #000000; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 26.784 660.672 
+L 687.456 660.672 
+L 687.456 631.656 
+L 26.784 631.656 
+z
+" clip-path="url(#p304c66d7b9)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 26.784 714.24 
+L 339.264 714.24 
+L 339.264 676.296 
+L 26.784 676.296 
+z
+" clip-path="url(#p304c66d7b9)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 374.976 714.24 
+L 687.456 714.24 
+L 687.456 676.296 
+L 374.976 676.296 
+z
+" clip-path="url(#p304c66d7b9)" style="fill: #ffffff; stroke-dasharray: 4,3; stroke-dashoffset: 0; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 2.232 1158.408 
+L 712.008 1158.408 
+L 712.008 741.024 
+L 2.232 741.024 
+L 2.232 1158.408 
+z
+" clip-path="url(#p304c66d7b9)" style="fill: none; stroke: #000000; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 13.392 897.264 
+L 147.312 897.264 
+L 147.312 790.128 
+L 13.392 790.128 
+z
+" clip-path="url(#p304c66d7b9)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 13.392 973.152 
+L 147.312 973.152 
+L 147.312 919.584 
+L 13.392 919.584 
+z
+" clip-path="url(#p304c66d7b9)" style="fill: #ffffff; stroke-dasharray: 4,3; stroke-dashoffset: 0; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 183.024 832.536 
+L 433.008 832.536 
+L 433.008 785.664 
+L 183.024 785.664 
+z
+" clip-path="url(#p304c66d7b9)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 183.024 948.6 
+L 433.008 948.6 
+L 433.008 845.928 
+L 183.024 845.928 
+z
+" clip-path="url(#p304c66d7b9)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 183.024 1071.36 
+L 433.008 1071.36 
+L 433.008 961.992 
+L 183.024 961.992 
+z
+" clip-path="url(#p304c66d7b9)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 455.328 823.608 
+L 562.464 823.608 
+L 562.464 794.592 
+L 455.328 794.592 
+z
+" clip-path="url(#p304c66d7b9)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 455.328 912.888 
+L 562.464 912.888 
+L 562.464 881.64 
+L 455.328 881.64 
+z
+" clip-path="url(#p304c66d7b9)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 455.328 1032.3 
+L 562.464 1032.3 
+L 562.464 1001.052 
+L 455.328 1001.052 
+z
+" clip-path="url(#p304c66d7b9)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 455.328 1071.36 
+L 562.464 1071.36 
+L 562.464 1044.576 
+L 455.328 1044.576 
+z
+" clip-path="url(#p304c66d7b9)" style="fill: #ffffff; stroke-dasharray: 4,3; stroke-dashoffset: 0; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 584.784 932.976 
+L 705.312 932.976 
+L 705.312 861.552 
+L 584.784 861.552 
+z
+" clip-path="url(#p304c66d7b9)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 584.784 1052.388 
+L 705.312 1052.388 
+L 705.312 980.964 
+L 584.784 980.964 
+z
+" clip-path="url(#p304c66d7b9)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 183.024 1147.248 
+L 705.312 1147.248 
+L 705.312 1095.912 
+L 183.024 1095.912 
+z
+" clip-path="url(#p304c66d7b9)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 13.392 1147.248 
+L 147.312 1147.248 
+L 147.312 1095.912 
+L 13.392 1095.912 
+z
+" clip-path="url(#p304c66d7b9)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 22.32 1118.232 
+L 46.872 1118.232 
+L 46.872 1104.84 
+L 22.32 1104.84 
+L 22.32 1118.232 
+z
+" clip-path="url(#p304c66d7b9)" style="fill: none; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 22.32 1140.552 
+L 46.872 1140.552 
+L 46.872 1127.16 
+L 22.32 1127.16 
+L 22.32 1140.552 
+z
+" clip-path="url(#p304c66d7b9)" style="fill: none; stroke-dasharray: 4,3; stroke-dashoffset: 0; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 147.312 843.696 
+L 165.168 843.696 
+" clip-path="url(#p304c66d7b9)" style="fill: none; stroke: #000000; stroke-width: 0.9"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 165.168 1016.676 
+L 165.168 809.1 
+" clip-path="url(#p304c66d7b9)" style="fill: none; stroke: #000000; stroke-width: 0.9"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10.7px; font-family: 'DejaVu Sans'; text-anchor: start" x="11.16" y="17.058328" transform="rotate(-0 11.16 17.058328)">(a) System / Protocol Architecture  (runtime components)</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="357.12" y="59.513794" transform="rotate(-0 357.12 59.513794)">PQC KEM Layer  -  liboqs-python (OQSKEM)</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'" transform="translate(162.478906 75.012194)">ML-KEM-512 / ML-KEM-768 / ML-KEM-1024 / FrodoKEM-976-AES     |     KeyGen, Encaps, Decaps</text>
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'" transform="translate(120.179078 85.35707)">Long-term static KEM key pairs (pk_A, pk_B) are pre-provisioned; Bob generates a fresh ephemeral pair per session</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(64.876781 153.257794)">ALICE  (Initiator)</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(75.361078 163.335825)">AliceSession</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'" transform="translate(20.088 182.112319)">Msg 1:</text>
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'" transform="translate(20.088 192.229133)">  Encaps(pk_B) -&gt; ct1, k1</text>
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'" transform="translate(20.088 202.574009)">Msg 3:</text>
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'" transform="translate(20.088 212.690823)">  verify tau1 (key k1)</text>
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'" transform="translate(20.088 222.807637)">  Decaps(ct2) -&gt; k2</text>
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'" transform="translate(20.088 232.924452)">  Encaps(pk_e) -&gt; ct*, k*</text>
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'" transform="translate(20.088 243.269328)">  request QKD key via</text>
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'" transform="translate(20.088 253.386142)">  mitigation layer</text>
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'" transform="translate(20.088 263.502956)">  tau2 = MAC_k2(key_ID, ct*, ...)</text>
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'" transform="translate(20.088 273.847833)">Final:</text>
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'" transform="translate(20.088 283.964647)">  verify tau3, derive key</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(561.968297 153.257794)">BOB  (Responder)</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(577.874391 163.335825)">BobSession</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'" transform="translate(520.056 182.112319)">Msg 2:</text>
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'" transform="translate(520.056 192.229133)">  ephemeral KeyGen -&gt; pk_e</text>
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'" transform="translate(520.056 202.574009)">  Decaps(ct1) -&gt; k1</text>
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'" transform="translate(520.056 212.690823)">  Encaps(pk_A) -&gt; ct2, k2</text>
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'" transform="translate(520.056 223.0357)">  tau1 = MAC_k1(pk_e, nonce_B, ...)</text>
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'" transform="translate(520.056 233.380577)">Msg 4:</text>
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'" transform="translate(520.056 243.497391)">  verify tau2 (key k2)</text>
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'" transform="translate(520.056 253.614205)">  Decaps(ct*) -&gt; k*</text>
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'" transform="translate(520.056 263.731019)">  key_ID present -&gt; retrieve QKD key</text>
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'" transform="translate(520.056 274.075895)">  key_ID empty  -&gt; PQC_ONLY</text>
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'" transform="translate(520.056 284.420772)">  tau3 = MAC_k1h(transcript ...)</text>
+   </g>
+   <g id="patch_29">
+    <path d="M 107.136 137.377769 
+Q 107.136 122.76 107.136 108.142231 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 109.136 133.377769 
+L 107.136 137.377769 
+L 105.136 133.377769 
+z
+" style="stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 105.136 112.142231 
+L 107.136 108.142231 
+L 109.136 112.142231 
+z
+" style="stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: start" x="111.6" y="124.912313" transform="rotate(-0 111.6 124.912313)">uses KEM</text>
+   </g>
+   <g id="patch_30">
+    <path d="M 607.104 137.377769 
+Q 607.104 122.76 607.104 108.142231 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 609.104 133.377769 
+L 607.104 137.377769 
+L 605.104 133.377769 
+z
+" style="stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 605.104 112.142231 
+L 607.104 108.142231 
+L 609.104 112.142231 
+z
+" style="stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: start" x="611.568" y="124.912313" transform="rotate(-0 611.568 124.912313)">uses KEM</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="357.12" y="151.918594" transform="rotate(-0 357.12 151.918594)">4-Message Signature-Free HAKE</text>
+   </g>
+   <g id="patch_31">
+    <path d="M 200.88 191.952 
+Q 357.12 191.952 512.353769 191.952 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 508.353769 189.952 
+L 512.353769 191.952 
+L 508.353769 193.952 
+z
+" style="stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: middle" x="357.12" y="186.095306" transform="rotate(-0 357.12 186.095306)">M1:  ct1, nonce_A</text>
+   </g>
+   <g id="patch_32">
+    <path d="M 513.36 232.128 
+Q 357.12 232.128 201.886231 232.128 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 205.886231 234.128 
+L 201.886231 232.128 
+L 205.886231 230.128 
+z
+" style="stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: middle" x="357.12" y="226.271306" transform="rotate(-0 357.12 226.271306)">M2:  pk_e, tau1, ct2, nonce_B</text>
+   </g>
+   <g id="patch_33">
+    <path d="M 200.88 272.304 
+Q 357.12 272.304 512.353769 272.304 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 508.353769 270.304 
+L 512.353769 272.304 
+L 508.353769 274.304 
+z
+" style="stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: middle" x="357.12" y="266.447306" transform="rotate(-0 357.12 266.447306)">M3:  ct*, qkd_key_ID (empty if PQC-only), tau2</text>
+   </g>
+   <g id="patch_34">
+    <path d="M 513.36 312.48 
+Q 357.12 312.48 201.886231 312.48 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 205.886231 314.48 
+L 201.886231 312.48 
+L 205.886231 310.48 
+z
+" style="stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: middle" x="357.12" y="306.840244" transform="rotate(-0 357.12 306.840244)">M4:  tau3</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="357.12" y="340.745794" transform="rotate(-0 357.12 340.745794)">Key Schedule  (computed by both peers)</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'" transform="translate(245.169281 355.904381)">Transcript = (version, IDs, algorithm, nonces, pk_A, pk_B,</text>
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'" transform="translate(238.953047 365.74463)">pk_e, ct1, ct2, ct*, qkd_key_ID, security_mode) -&gt; SHA3-256</text>
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'" transform="translate(246.666516 375.584878)">ROKDF = SHA3-512(k*, c_KEM, k_QKD or empty, c_QKD)</text>
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'" transform="translate(289.945547 385.471195)">-&gt; k1h || k2h;    session key = k2h</text>
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'" transform="translate(289.931531 395.311444)">tau1, tau2, tau3 = HMAC-SHA-256</text>
+   </g>
+   <g id="patch_35">
+    <path d="M 200.88 379.44 
+Q 214.272 379.44 226.657769 379.44 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 222.657769 377.44 
+L 226.657769 379.44 
+L 222.657769 381.44 
+z
+" style="stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_36">
+    <path d="M 513.36 379.44 
+Q 499.968 379.44 487.582231 379.44 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 491.582231 381.44 
+L 487.582231 379.44 
+L 491.582231 377.44 
+z
+" style="stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(65.640375 461.273794)">Mitigation Layer</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(54.814359 471.422137)">(MitigationManager)</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 7.9px; font-family: 'DejaVu Sans'" transform="translate(20.088 489.900366)">1. Per-peer rate quota</text>
+    <text style="font-size: 7.9px; font-family: 'DejaVu Sans'" transform="translate(20.088 499.647052)">    (1 s sliding window)</text>
+    <text style="font-size: 7.9px; font-family: 'DejaVu Sans'" transform="translate(20.088 509.393739)">2. Admission control</text>
+    <text style="font-size: 7.9px; font-family: 'DejaVu Sans'" transform="translate(20.088 519.140426)">    (pool occupancy &gt;= 5%)</text>
+    <text style="font-size: 7.9px; font-family: 'DejaVu Sans'" transform="translate(20.088 528.887113)">3. Fallback policy: explicit</text>
+    <text style="font-size: 7.9px; font-family: 'DejaVu Sans'" transform="translate(20.088 538.633799)">    PQC_ONLY or reject</text>
+   </g>
+   <g id="patch_37">
+    <path d="M 107.136 419.616 
+Q 107.136 433.008 107.136 445.393769 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 109.136 441.393769 
+L 107.136 445.393769 
+L 105.136 441.393769 
+z
+" style="stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: start" x="111.6" y="435.160312" transform="rotate(-0 111.6 435.160312)">QKD key request</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="357.12" y="461.273794" transform="rotate(-0 357.12 461.273794)">Handshake Result</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 7.9px; font-family: 'DejaVu Sans'" transform="translate(310.742062 476.508366)">session_key,  transcript</text>
+    <text style="font-size: 7.9px; font-family: 'DejaVu Sans'" transform="translate(271.838266 486.52143)">security_mode:  HYBRID_QKD  |  PQC_ONLY</text>
+    <text style="font-size: 7.9px; font-family: 'DejaVu Sans'" transform="translate(267.466109 496.534495)">fallback_reason:  NONE | QUOTA_EXCEEDED |</text>
+    <text style="font-size: 7.9px; font-family: 'DejaVu Sans'" transform="translate(234.218836 506.54756)">ADMISSION_CONTROL | QKD_UNAVAILABLE | PEER_DECLARED</text>
+    <text style="font-size: 7.9px; font-family: 'DejaVu Sans'" transform="translate(260.933797 516.513966)">Rejected handshake -&gt; HandshakeError (no key)</text>
+   </g>
+   <g id="patch_38">
+    <path d="M 357.12 419.616 
+Q 357.12 433.008 357.12 445.393769 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 359.12 441.393769 
+L 357.12 445.393769 
+L 355.12 441.393769 
+z
+" style="stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_39">
+    <path d="M 200.88 522.288 
+Q 214.272 522.288 226.657769 522.288 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 222.657769 520.288 
+L 226.657769 522.288 
+L 222.657769 524.288 
+z
+" style="stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans'" transform="translate(200.300437 508.97615)">mode +</text>
+    <text style="font-size: 7px; font-family: 'DejaVu Sans'" transform="translate(202.430516 516.814619)">reason</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="357.12" y="605.014594" transform="rotate(-0 357.12 605.014594)">Mock QKD Key Management Entity (KME)  -  ETSI GS QKD 014 style</text>
+   </g>
+   <g id="text_24">
+    <text style="font-style: italic; font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: middle" x="357.12" y="621.806813" transform="rotate(-0 357.12 621.806813)">(accessed by the HAKE code in-process through an injected client function)</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 7.7px; font-family: 'DejaVu Sans'" transform="translate(145.830195 641.077997)">QKDKeyPool (in-memory, thread-safe):  finite pool depth,  lazy refill at refill_bps,  256-bit keys,  UUID key_IDs,</text>
+    <text style="font-size: 7.7px; font-family: 'DejaVu Sans'" transform="translate(147.130172 650.792088)">single-use retrieval by key_ID,  per-peer outstanding-key quota,  errors: PoolExhausted / PeerQuotaExceeded</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'" transform="translate(78.927516 687.579581)">REST API (FastAPI):  GET status,  GET/POST enc_keys,</text>
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'" transform="translate(76.536937 697.41983)">GET/POST dec_keys;  SAE identity via X-SAE-ID header</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'" transform="translate(452.158125 687.579581)">QKDClient (HTTP client for the REST API)</text>
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'" transform="translate(442.168031 697.202892)">implemented, not yet used by the HAKE code</text>
+   </g>
+   <g id="patch_40">
+    <path d="M 183.024 676.296 
+Q 183.024 668.484 183.024 661.678231 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 181.024 665.678231 
+L 183.024 661.678231 
+L 185.024 665.678231 
+z
+" style="stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_41">
+    <path d="M 374.976 695.4912 
+Q 357.12 695.4912 340.270231 695.4912 
+" style="fill: none; stroke-dasharray: 3.6,2.7; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 344.270231 697.4912 
+L 340.270231 695.4912 
+L 344.270231 693.4912 
+z
+" style="stroke-dasharray: 3.6,2.7; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_42">
+    <path d="M 107.136 566.928 
+Q 107.136 599.292 107.136 630.649769 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 109.136 626.649769 
+L 107.136 630.649769 
+L 105.136 626.649769 
+z
+" style="stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 7.7px; font-family: 'DejaVu Sans'; text-anchor: start" x="111.6" y="582.444719" transform="rotate(-0 111.6 582.444719)">status, then GetKey (only if admitted)</text>
+   </g>
+   <g id="patch_43">
+    <path d="M 607.104 419.616 
+Q 607.104 525.636 607.104 630.649769 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 609.104 626.649769 
+L 607.104 630.649769 
+L 605.104 626.649769 
+z
+" style="stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: end" x="602.64" y="527.679844" transform="rotate(-0 602.64 527.679844)">GetKeyWithIDs(key_ID)</text>
+   </g>
+   <g id="text_30">
+    <text style="font-weight: 700; font-size: 10.7px; font-family: 'DejaVu Sans'; text-anchor: start" x="11.16" y="755.850328" transform="rotate(-0 11.16 755.850328)">(b) Experimental / Evaluation Architecture</text>
+   </g>
+   <g id="text_31">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'DejaVu Sans'; text-anchor: middle" x="80.352" y="772.379469" transform="rotate(-0 80.352 772.379469)">Configuration</text>
+   </g>
+   <g id="text_32">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'DejaVu Sans'; text-anchor: middle" x="308.016" y="772.413063" transform="rotate(-0 308.016 772.413063)">Experiments</text>
+   </g>
+   <g id="text_33">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'DejaVu Sans'; text-anchor: middle" x="508.896" y="772.413063" transform="rotate(-0 508.896 772.413063)">Raw Results (CSV)</text>
+   </g>
+   <g id="text_34">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'DejaVu Sans'; text-anchor: middle" x="645.048" y="772.413063" transform="rotate(-0 645.048 772.413063)">Plots</text>
+   </g>
+   <g id="text_35">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="80.352" y="805.001794" transform="rotate(-0 80.352 805.001794)">CLI (qkd-hake)</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 7.9px; font-family: 'DejaVu Sans'" transform="translate(20.088 820.236366)">demo</text>
+    <text style="font-size: 7.9px; font-family: 'DejaVu Sans'" transform="translate(20.088 829.983052)">benchmark --runs</text>
+    <text style="font-size: 7.9px; font-family: 'DejaVu Sans'" transform="translate(20.088 839.729739)">  --warmup-runs</text>
+    <text style="font-size: 7.9px; font-family: 'DejaVu Sans'" transform="translate(20.088 849.476426)">sweep --measurement-</text>
+    <text style="font-size: 7.9px; font-family: 'DejaVu Sans'" transform="translate(20.088 859.223113)">  seconds --repeats</text>
+    <text style="font-size: 7.9px; font-family: 'DejaVu Sans'" transform="translate(20.088 868.969799)">  --pool-depths</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 7.7px; font-family: 'DejaVu Sans'" transform="translate(32.05375 930.791597)">configs/experiments.json</text>
+    <text style="font-size: 7.7px; font-family: 'DejaVu Sans'" transform="translate(39.939031 940.291532)">(rates, supply, KEMs,</text>
+    <text style="font-size: 7.7px; font-family: 'DejaVu Sans'" transform="translate(34.836578 949.791467)">policy names - not read</text>
+    <text style="font-size: 7.7px; font-family: 'DejaVu Sans'" transform="translate(56.075945 959.291402)">by the code)</text>
+   </g>
+   <g id="text_38">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="308.016" y="800.537794" transform="rotate(-0 308.016 800.537794)">E1  Smoke Demo</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: middle" x="308.016" y="815.696381" transform="rotate(-0 308.016 815.696381)">pool issue/retrieve check + combiner timing (20 runs)</text>
+   </g>
+   <g id="text_40">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="308.016" y="860.801794" transform="rotate(-0 308.016 860.801794)">E2  Performance Benchmark (full HAKE)</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'" transform="translate(222.264141 875.960381)">4 KEMs x 1000 paired runs (+100 warm-up)</text>
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'" transform="translate(197.380313 885.583692)">HYBRID vs PURE_PQC (PQC-only = explicit fallback path)</text>
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'" transform="translate(233.895281 895.423941)">mock QKD client, pool never depleted</text>
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'" transform="translate(211.477594 905.047252)">latency, CPU time, bytes on wire -&gt; median / p95</text>
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'" transform="translate(216.345891 914.670562)">[evaluates: HAKE + KEM layer + key schedule]</text>
+   </g>
+   <g id="text_42">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="308.016" y="976.865794" transform="rotate(-0 308.016 976.865794)">E3  WP6 QKD Starvation Sweep</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'" transform="translate(217.663969 992.024381)">QKDKeyPool + simulated clock (HAKE not run)</text>
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'" transform="translate(201.460687 1001.647692)">supply 1/10/100 kbps x 1-100 req/s x depth 16/64/128</text>
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'" transform="translate(210.728672 1011.271003)">Phase 1: burst depletion, measured vs theoretical</text>
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'" transform="translate(198.000656 1020.894314)">Phase 2: 60 s steady-state QKD success rate (5 repeats)</text>
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'" transform="translate(220.476234 1030.517625)">[evaluates: KME key pool supply vs demand]</text>
+   </g>
+   <g id="patch_44">
+    <path d="M 165.168 809.1 
+Q 174.096 809.1 182.017769 809.1 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 178.017769 807.1 
+L 182.017769 809.1 
+L 178.017769 811.1 
+z
+" style="stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_45">
+    <path d="M 165.168 897.264 
+Q 174.096 897.264 182.017769 897.264 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 178.017769 895.264 
+L 182.017769 897.264 
+L 178.017769 899.264 
+z
+" style="stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_46">
+    <path d="M 165.168 1016.676 
+Q 174.096 1016.676 182.017769 1016.676 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 178.017769 1014.676 
+L 182.017769 1016.676 
+L 178.017769 1018.676 
+z
+" style="stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 7.9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="508.896" y="809.522766" transform="rotate(-0 508.896 809.522766)">smoke.csv</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 7.9px; font-family: 'DejaVu Sans'" transform="translate(481.623102 891.213966)">performance_</text>
+    <text style="font-size: 7.9px; font-family: 'DejaVu Sans'" transform="translate(476.719547 901.180371)">benchmarks.csv</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 7.9px; font-family: 'DejaVu Sans'" transform="translate(485.978594 1010.625966)">bottleneck_</text>
+    <text style="font-size: 7.9px; font-family: 'DejaVu Sans'" transform="translate(475.789445 1020.592371)">steady_state.csv</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 7.4px; font-family: 'DejaVu Sans'" transform="translate(468.245719 1052.877244)">bottleneck_sweep.csv</text>
+    <text style="font-size: 7.4px; font-family: 'DejaVu Sans'" transform="translate(471.844547 1062.212864)">(legacy 10 s sweep)</text>
+   </g>
+   <g id="patch_47">
+    <path d="M 433.008 809.1 
+Q 444.168 809.1 454.321769 809.1 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 450.321769 807.1 
+L 454.321769 809.1 
+L 450.321769 811.1 
+z
+" style="stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_48">
+    <path d="M 433.008 897.264 
+Q 444.168 897.264 454.321769 897.264 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 450.321769 895.264 
+L 454.321769 897.264 
+L 450.321769 899.264 
+z
+" style="stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_49">
+    <path d="M 433.008 1016.676 
+Q 444.168 1016.676 454.321769 1016.676 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 450.321769 1014.676 
+L 454.321769 1016.676 
+L 450.321769 1018.676 
+z
+" style="stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="text_48">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(603.344875 875.66595)">plot_performance_</text>
+    <text style="font-weight: 700; font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(622.169875 884.8467)">figures.py</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(605.900875 904.824413)">latency median/p95,</text>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(619.394437 914.200972)">message size</text>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(614.414062 923.577531)">(run separately)</text>
+   </g>
+   <g id="text_50">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle" x="645.048" y="992.39955" transform="rotate(-0 645.048 992.39955)">plot_wp6.py</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(606.957156 1008.166013)">burst vs pool depth,</text>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(604.040656 1017.542572)">steady-state success,</text>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(607.048 1026.919131)">measured vs theory</text>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(614.414062 1036.295691)">(run separately)</text>
+   </g>
+   <g id="patch_50">
+    <path d="M 562.464 897.264 
+Q 573.624 897.264 583.777769 897.264 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 579.777769 895.264 
+L 583.777769 897.264 
+L 579.777769 899.264 
+z
+" style="stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_51">
+    <path d="M 562.464 1016.676 
+Q 573.624 1016.676 583.777769 1016.676 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 579.777769 1014.676 
+L 583.777769 1016.676 
+L 579.777769 1018.676 
+z
+" style="stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="text_52">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="444.168" y="1109.000194" transform="rotate(-0 444.168 1109.000194)">Automated Verification (pytest)</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(254.252906 1124.006813)">pool &amp; KME API, KEM round-trip, combiner, HAKE flow + tampering, WP7 mitigation regression tests</text>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(194.314437 1133.383372)">(quota, admission control, explicit PQC-only fallback, fallback reasons).   WP7 policy-comparison experiment: not yet implemented.</text>
+   </g>
+   <g id="text_54">
+    <text style="font-size: 7.4px; font-family: 'DejaVu Sans'; text-anchor: start" x="53.568" y="1113.577938" transform="rotate(-0 53.568 1113.577938)">implemented &amp; used</text>
+   </g>
+   <g id="text_55">
+    <text style="font-size: 7.4px; font-family: 'DejaVu Sans'" transform="translate(53.568 1131.754747)">exists, not wired /</text>
+    <text style="font-size: 7.4px; font-family: 'DejaVu Sans'" transform="translate(53.568 1140.041128)">legacy</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p304c66d7b9">
+   <rect x="0" y="0" width="714.24" height="1160.64"/>
+  </clipPath>
+ </defs>
+</svg>

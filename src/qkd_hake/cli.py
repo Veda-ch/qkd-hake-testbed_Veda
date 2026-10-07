@@ -7,6 +7,7 @@ from pathlib import Path
 import uvicorn
 
 from qkd_hake.benchmarks.runner import smoke_benchmark
+from qkd_hake.benchmarks.policy_eval import run_policy_comparison
 from qkd_hake.benchmarks.suite import (
     run_performance_benchmarks,
     sweep_bottleneck_analysis,
@@ -117,6 +118,31 @@ def main() -> None:
         help="initial/max pool depths in keys",
     )
 
+    policies_parser = subparsers.add_parser(
+        "policies",
+        help="run the WP7 mitigation-policy comparison",
+    )
+
+    policies_parser.add_argument(
+        "--config",
+        default="configs/experiments.json",
+        help="experiment configuration file",
+    )
+
+    policies_parser.add_argument(
+        "--measurement-seconds",
+        type=float,
+        default=30.0,
+        help="simulated measurement window per case",
+    )
+
+    policies_parser.add_argument(
+        "--repeats",
+        type=int,
+        default=3,
+        help="number of repeats per configuration",
+    )
+
     args = parser.parse_args()
 
     if args.command == "server":
@@ -140,6 +166,13 @@ def main() -> None:
             measurement_seconds=args.measurement_seconds,
             repeats=args.repeats,
             pool_depths=tuple(args.pool_depths),
+        )
+
+    elif args.command == "policies":
+        run_policy_comparison(
+            config_path=args.config,
+            measurement_seconds=args.measurement_seconds,
+            repeats=args.repeats,
         )
 
 

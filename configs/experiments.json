@@ -14,5 +14,13 @@
     "uncontrolled_explicit_downgrade",
     "per_peer_quota",
     "admission_control"
-  ]
+  ],
+  "policy_settings": {
+    "per_peer_quota_rate_per_second": 5,
+    "admission_threshold": 0.05,
+    "pool_depth_keys": 128,
+    "kem_algorithm": "ML-KEM-512",
+    "heavy_peer_share": 0.5,
+    "light_peers": 3
+  }
 }

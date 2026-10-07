@@ -39,3 +39,13 @@ def test_empty_pool_returns_service_unavailable() -> None:
         json={"number": 1, "size": 256},
     )
     assert response.status_code == 503
+
+
+def test_peer_quota_returns_service_unavailable() -> None:
+    app = create_app(
+        Settings(refill_bps=0, pool_depth=4, initial_keys=4, key_size_bits=256, per_peer_quota=1)
+    )
+    client = TestClient(app)
+    request = {"headers": {"X-SAE-ID": "alice"}, "json": {"number": 1, "size": 256}}
+    assert client.post("/api/v1/keys/bob/enc_keys", **request).status_code == 200
+    assert client.post("/api/v1/keys/bob/enc_keys", **request).status_code == 503

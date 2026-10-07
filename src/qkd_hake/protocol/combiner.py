@@ -18,6 +18,18 @@ class SecurityMode(StrEnum):
     REJECTED = "REJECTED"
 
 
+class FallbackReason(StrEnum):
+    """Why a handshake did not run in HYBRID_QKD mode (local view, not on the wire)."""
+
+    NONE = "NONE"
+    QKD_UNAVAILABLE = "QKD_UNAVAILABLE"
+    QUOTA_EXCEEDED = "QUOTA_EXCEEDED"
+    ADMISSION_CONTROL = "ADMISSION_CONTROL"
+    # Responder side only: the initiator signalled PQC-only (empty QKD key ID);
+    # the initiator's reason is not transmitted.
+    PEER_DECLARED = "PEER_DECLARED"
+
+
 class QKDRequired(RuntimeError):
     pass
 

@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="665.28pt" height="1037.52pt" viewBox="0 0 665.28 1037.52" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-06T00:28:58.142047</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 1037.52 
+L 665.28 1037.52 
+L 665.28 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 3.96 522.72 
+L 629.64 522.72 
+L 629.64 3.96 
+L 3.96 3.96 
+L 3.96 522.72 
+z
+" clip-path="url(#pa892c4e971)" style="fill: none; stroke: #000000; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 15.84 91.08 
+L 617.76 91.08 
+L 617.76 37.62 
+L 15.84 37.62 
+z
+" clip-path="url(#pa892c4e971)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 15.84 324.72 
+L 174.24 324.72 
+L 174.24 114.84 
+L 15.84 114.84 
+z
+" clip-path="url(#pa892c4e971)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 459.36 324.72 
+L 617.76 324.72 
+L 617.76 114.84 
+L 459.36 114.84 
+z
+" clip-path="url(#pa892c4e971)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 198 324.72 
+L 310.86 324.72 
+L 310.86 263.34 
+L 198 263.34 
+z
+" clip-path="url(#pa892c4e971)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 322.74 324.72 
+L 435.6 324.72 
+L 435.6 263.34 
+L 322.74 263.34 
+z
+" clip-path="url(#pa892c4e971)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 15.84 427.68 
+L 174.24 427.68 
+L 174.24 348.48 
+L 15.84 348.48 
+z
+" clip-path="url(#pa892c4e971)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 198 427.68 
+L 435.6 427.68 
+L 435.6 348.48 
+L 198 348.48 
+z
+" clip-path="url(#pa892c4e971)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 15.84 512.82 
+L 617.76 512.82 
+L 617.76 449.46 
+L 15.84 449.46 
+z
+" clip-path="url(#pa892c4e971)" style="fill: #ffffff; stroke: #000000; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 25.74 506.88 
+L 166.32 506.88 
+L 166.32 471.24 
+L 25.74 471.24 
+z
+" clip-path="url(#pa892c4e971)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 174.24 506.88 
+L 314.82 506.88 
+L 314.82 471.24 
+L 174.24 471.24 
+z
+" clip-path="url(#pa892c4e971)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 322.74 506.88 
+L 463.32 506.88 
+L 463.32 471.24 
+L 322.74 471.24 
+z
+" clip-path="url(#pa892c4e971)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 471.24 506.88 
+L 611.82 506.88 
+L 611.82 471.24 
+L 471.24 471.24 
+z
+" clip-path="url(#pa892c4e971)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 3.96 788.04 
+L 629.64 788.04 
+L 629.64 538.56 
+L 3.96 538.56 
+L 3.96 788.04 
+z
+" clip-path="url(#pa892c4e971)" style="fill: none; stroke: #000000; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 15.84 617.76 
+L 617.76 617.76 
+L 617.76 568.26 
+L 15.84 568.26 
+z
+" clip-path="url(#pa892c4e971)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 15.84 778.14 
+L 209.88 778.14 
+L 209.88 641.52 
+L 15.84 641.52 
+z
+" clip-path="url(#pa892c4e971)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 219.78 778.14 
+L 413.82 778.14 
+L 413.82 641.52 
+L 219.78 641.52 
+z
+" clip-path="url(#pa892c4e971)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 423.72 778.14 
+L 617.76 778.14 
+L 617.76 641.52 
+L 423.72 641.52 
+z
+" clip-path="url(#pa892c4e971)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 3.96 956.34 
+L 629.64 956.34 
+L 629.64 809.82 
+L 3.96 809.82 
+L 3.96 956.34 
+z
+" clip-path="url(#pa892c4e971)" style="fill: none; stroke: #000000; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 15.84 883.08 
+L 209.88 883.08 
+L 209.88 833.58 
+L 15.84 833.58 
+z
+" clip-path="url(#pa892c4e971)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 219.78 883.08 
+L 413.82 883.08 
+L 413.82 833.58 
+L 219.78 833.58 
+z
+" clip-path="url(#pa892c4e971)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 423.72 883.08 
+L 617.76 883.08 
+L 617.76 833.58 
+L 423.72 833.58 
+z
+" clip-path="url(#pa892c4e971)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 15.84 940.5 
+L 209.88 940.5 
+L 209.88 891 
+L 15.84 891 
+z
+" clip-path="url(#pa892c4e971)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 219.78 940.5 
+L 413.82 940.5 
+L 413.82 891 
+L 219.78 891 
+z
+" clip-path="url(#pa892c4e971)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 423.72 940.5 
+L 617.76 940.5 
+L 617.76 891 
+L 423.72 891 
+z
+" clip-path="url(#pa892c4e971)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 15.84 1031.58 
+L 617.76 1031.58 
+L 617.76 984.06 
+L 15.84 984.06 
+z
+" clip-path="url(#pa892c4e971)" style="fill: #ffffff; stroke: #000000; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 629.64 277.2 
+L 651.42 277.2 
+L 651.42 881.1 
+" clip-path="url(#pa892c4e971)" style="fill: none; stroke: #000000"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'Times New Roman'; text-anchor: start" x="11.88" y="18.315562" transform="rotate(-0 11.88 18.315562)">A.  Core System Architecture: Signature-Free Hybrid QKD-PQC HAKE</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Times New Roman'; text-anchor: middle" x="316.8" y="52.139656" transform="rotate(-0 316.8 52.139656)">PQC / KEM Layer</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 10.5px; font-family: 'Times New Roman'; text-anchor: middle" x="316.8" y="68.076937" transform="rotate(-0 316.8 68.076937)">ML-KEM-512 / 768 / 1024, FrodoKEM-976   |   long-term KEM keys (authentication)   |   ephemeral KEM key (forward secrecy)</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Times New Roman'" transform="translate(82.587656 129.187156)">Alice</text>
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Times New Roman'" transform="translate(70.448867 140.429305)">(Initiator)</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 10.5px; font-family: 'Times New Roman'" transform="translate(41.243086 158.562937)">Long-term KEM key pair</text>
+    <text style="font-size: 10.5px; font-family: 'Times New Roman'" transform="translate(95.04 170.306859)"/>
+    <text style="font-size: 10.5px; font-family: 'Times New Roman'" transform="translate(52.172109 182.031094)">Encapsulates to Bob</text>
+    <text style="font-size: 10.5px; font-family: 'Times New Roman'" transform="translate(95.04 193.755328)"/>
+    <text style="font-size: 10.5px; font-family: 'Times New Roman'" transform="translate(54.501797 205.479562)">Requests QKD key</text>
+    <text style="font-size: 10.5px; font-family: 'Times New Roman'" transform="translate(52.468242 217.223484)">through policy layer</text>
+    <text style="font-size: 10.5px; font-family: 'Times New Roman'" transform="translate(95.04 228.967406)"/>
+    <text style="font-size: 10.5px; font-family: 'Times New Roman'" transform="translate(50.286211 240.691641)">Verifies confirmation</text>
+    <text style="font-size: 10.5px; font-family: 'Times New Roman'" transform="translate(95.04 252.415875)"/>
+    <text style="font-size: 10.5px; font-family: 'Times New Roman'" transform="translate(53.337773 264.140109)">Derives session key</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Times New Roman'" transform="translate(528.652031 129.187156)">Bob</text>
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Times New Roman'" transform="translate(508.215273 140.602883)">(Responder)</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 10.5px; font-family: 'Times New Roman'" transform="translate(484.763086 158.562937)">Long-term KEM key pair</text>
+    <text style="font-size: 10.5px; font-family: 'Times New Roman'" transform="translate(538.56 170.306859)"/>
+    <text style="font-size: 10.5px; font-family: 'Times New Roman'" transform="translate(494.396836 182.031094)">Generates ephemeral</text>
+    <text style="font-size: 10.5px; font-family: 'Times New Roman'" transform="translate(508.525898 193.755328)">KEM key pair</text>
+    <text style="font-size: 10.5px; font-family: 'Times New Roman'" transform="translate(538.56 205.49925)"/>
+    <text style="font-size: 10.5px; font-family: 'Times New Roman'" transform="translate(497.153086 217.223484)">Retrieves QKD key</text>
+    <text style="font-size: 10.5px; font-family: 'Times New Roman'" transform="translate(517.564922 228.967406)">by key ID</text>
+    <text style="font-size: 10.5px; font-family: 'Times New Roman'" transform="translate(538.56 240.711328)"/>
+    <text style="font-size: 10.5px; font-family: 'Times New Roman'" transform="translate(497.587852 252.435562)">Sends confirmation</text>
+    <text style="font-size: 10.5px; font-family: 'Times New Roman'" transform="translate(538.56 264.159797)"/>
+    <text style="font-size: 10.5px; font-family: 'Times New Roman'" transform="translate(496.857773 275.884031)">Derives session key</text>
+   </g>
+   <g id="patch_28">
+    <path d="M 95.04 113.721966 
+Q 95.04 102.96 95.04 92.198034 
+" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 97.44 108.921966 
+L 95.04 113.721966 
+L 92.64 108.921966 
+z
+" style="stroke: #000000; stroke-linecap: round"/>
+    <path d="M 92.64 96.998034 
+L 95.04 92.198034 
+L 97.44 96.998034 
+z
+" style="stroke: #000000; stroke-linecap: round"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 538.56 113.721966 
+Q 538.56 102.96 538.56 92.198034 
+" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 540.96 108.921966 
+L 538.56 113.721966 
+L 536.16 108.921966 
+z
+" style="stroke: #000000; stroke-linecap: round"/>
+    <path d="M 536.16 96.998034 
+L 538.56 92.198034 
+L 540.96 96.998034 
+z
+" style="stroke: #000000; stroke-linecap: round"/>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Times New Roman'; text-anchor: middle" x="316.8" y="128.551484" transform="rotate(-0 316.8 128.551484)">HAKE Protocol: 4-Message Exchange</text>
+   </g>
+   <g id="patch_30">
+    <path d="M 174.24 152.46 
+Q 316.8 152.46 458.241966 152.46 
+" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 453.441966 150.06 
+L 458.241966 152.46 
+L 453.441966 154.86 
+z
+" style="stroke: #000000; stroke-linecap: round"/>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle" x="316.8" y="147.152937" transform="rotate(-0 316.8 147.152937)">M1:  Initial KEM ciphertext + nonce</text>
+   </g>
+   <g id="patch_31">
+    <path d="M 459.36 184.14 
+Q 316.8 184.14 175.358034 184.14 
+" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 180.158034 186.54 
+L 175.358034 184.14 
+L 180.158034 181.74 
+z
+" style="stroke: #000000; stroke-linecap: round"/>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle" x="316.8" y="178.814188" transform="rotate(-0 316.8 178.814188)">M2:  Ephemeral KEM key + KEM response + nonce + MAC</text>
+   </g>
+   <g id="patch_32">
+    <path d="M 174.24 215.82 
+Q 316.8 215.82 458.241966 215.82 
+" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 453.441966 213.42 
+L 458.241966 215.82 
+L 453.441966 218.22 
+z
+" style="stroke: #000000; stroke-linecap: round"/>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle" x="316.8" y="210.494188" transform="rotate(-0 316.8 210.494188)">M3:  KEM ciphertext + QKD key ID + MAC</text>
+   </g>
+   <g id="patch_33">
+    <path d="M 459.36 247.5 
+Q 316.8 247.5 175.358034 247.5 
+" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 180.158034 249.9 
+L 175.358034 247.5 
+L 180.158034 245.1 
+z
+" style="stroke: #000000; stroke-linecap: round"/>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle" x="316.8" y="242.174188" transform="rotate(-0 316.8 242.174188)">M4:  Key confirmation MAC</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Times New Roman'" transform="translate(215.631797 275.547937)">Key Derivation /</text>
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Times New Roman'" transform="translate(230.598672 286.298203)">Combiner</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 10px; font-family: 'Times New Roman'" transform="translate(219.572969 304.73575)">Transcript hash +</text>
+    <text style="font-size: 10px; font-family: 'Times New Roman'" transform="translate(220.678438 315.901687)">multi-input KDF</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Times New Roman'" transform="translate(341.128047 275.376062)">Authentication /</text>
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Times New Roman'" transform="translate(336.245078 286.303359)">Key Confirmation</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 10px; font-family: 'Times New Roman'" transform="translate(344.723125 304.73575)">MAC tags bound</text>
+    <text style="font-size: 10px; font-family: 'Times New Roman'" transform="translate(347.790313 315.920437)">to the transcript</text>
+   </g>
+   <g id="patch_34">
+    <path d="M 174.24 300.96 
+Q 186.12 300.96 196.881966 300.96 
+" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 192.081966 298.56 
+L 196.881966 300.96 
+L 192.081966 303.36 
+z
+" style="stroke: #000000; stroke-linecap: round"/>
+   </g>
+   <g id="patch_35">
+    <path d="M 459.36 300.96 
+Q 447.48 300.96 436.718034 300.96 
+" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 441.518034 303.36 
+L 436.718034 300.96 
+L 441.518034 298.56 
+z
+" style="stroke: #000000; stroke-linecap: round"/>
+   </g>
+   <g id="patch_36">
+    <path d="M 310.86 300.96 
+Q 316.8 300.96 321.621966 300.96 
+" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 316.821966 298.56 
+L 321.621966 300.96 
+L 316.821966 303.36 
+z
+" style="stroke: #000000; stroke-linecap: round"/>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Times New Roman'; text-anchor: middle" x="95.04" y="361.422844" transform="rotate(-0 95.04 361.422844)">Mitigation / Policy Layer</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 10.2px; font-family: 'Times New Roman'" transform="translate(65.263969 377.144625)">Per-peer quota</text>
+    <text style="font-size: 10.2px; font-family: 'Times New Roman'" transform="translate(57.215531 388.533881)">Admission control</text>
+    <text style="font-size: 10.2px; font-family: 'Times New Roman'" transform="translate(39.234047 399.923137)">Explicit PQC-only fallback</text>
+    <text style="font-size: 10.2px; font-family: 'Times New Roman'" transform="translate(64.875891 411.337734)">Strict rejection</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Times New Roman'; text-anchor: middle" x="316.8" y="361.422844" transform="rotate(-0 316.8 361.422844)">Security Mode / Handshake Result</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 10.2px; font-family: 'Times New Roman'" transform="translate(220.541484 377.144625)">HYBRID_QKD  |  PQC_ONLY  |  REJECTED</text>
+    <text style="font-size: 10.2px; font-family: 'Times New Roman'" transform="translate(256.98975 388.553006)">session key + fallback reason</text>
+    <text style="font-size: 10.2px; font-family: 'Times New Roman'" transform="translate(223.739344 399.961387)">explicit mode, bound into transcript and KDF</text>
+   </g>
+   <g id="patch_37">
+    <path d="M 95.04 324.72 
+Q 95.04 336.6 95.04 347.361966 
+" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 97.44 342.561966 
+L 95.04 347.361966 
+L 92.64 342.561966 
+z
+" style="stroke: #000000; stroke-linecap: round"/>
+   </g>
+   <g id="patch_38">
+    <path d="M 254.43 324.72 
+Q 254.43 336.6 254.43 347.361966 
+" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 256.83 342.561966 
+L 254.43 347.361966 
+L 252.03 342.561966 
+z
+" style="stroke: #000000; stroke-linecap: round"/>
+   </g>
+   <g id="patch_39">
+    <path d="M 379.17 324.72 
+Q 379.17 336.6 379.17 347.361966 
+" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 381.57 342.561966 
+L 379.17 347.361966 
+L 376.77 342.561966 
+z
+" style="stroke: #000000; stroke-linecap: round"/>
+   </g>
+   <g id="patch_40">
+    <path d="M 174.24 388.08 
+Q 186.12 388.08 196.881966 388.08 
+" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 192.081966 385.68 
+L 196.881966 388.08 
+L 192.081966 390.48 
+z
+" style="stroke: #000000; stroke-linecap: round"/>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Times New Roman'; text-anchor: middle" x="316.8" y="461.214844" transform="rotate(-0 316.8 461.214844)">QKD System: Mock ETSI GS QKD 014 Key Management Entity (KME)</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 10px; font-family: 'Times New Roman'" transform="translate(62.1425 482.73775)">QKD key supply</text>
+    <text style="font-size: 10px; font-family: 'Times New Roman'" transform="translate(74.240938 493.922437)">(refill rate)</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 10px; font-family: 'Times New Roman'" transform="translate(214.254219 482.73775)">Finite key pool</text>
+    <text style="font-size: 10px; font-family: 'Times New Roman'" transform="translate(219.952656 493.922437)">(pool depth)</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 10px; font-family: 'Times New Roman'" transform="translate(358.03625 482.73775)">Key delivery API</text>
+    <text style="font-size: 10px; font-family: 'Times New Roman'" transform="translate(337.691719 493.922437)">(GetKey / GetKeyWithIDs)</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 10px; font-family: 'Times New Roman'" transform="translate(499.878438 482.719)">Key ID management</text>
+    <text style="font-size: 10px; font-family: 'Times New Roman'" transform="translate(507.510469 493.903687)">(single-use keys)</text>
+   </g>
+   <g id="patch_41">
+    <path d="M 95.04 427.68 
+Q 95.04 438.57 95.04 448.341966 
+" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 97.44 443.541966 
+L 95.04 448.341966 
+L 92.64 443.541966 
+z
+" style="stroke: #000000; stroke-linecap: round"/>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 9px; font-family: 'Times New Roman'" transform="translate(99.792 436.003031)">status / key request</text>
+    <text style="font-size: 9px; font-family: 'Times New Roman'" transform="translate(99.792 445.444312)">(only if admitted)</text>
+   </g>
+   <g id="patch_42">
+    <path d="M 538.56 324.72 
+Q 538.56 387.09 538.56 448.341966 
+" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 540.96 443.541966 
+L 538.56 448.341966 
+L 536.16 443.541966 
+z
+" style="stroke: #000000; stroke-linecap: round"/>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 9.5px; font-family: 'Times New Roman'; text-anchor: end" x="533.808" y="389.36332" transform="rotate(-0 533.808 389.36332)">key retrieval by ID</text>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'Times New Roman'; text-anchor: start" x="11.88" y="552.915562" transform="rotate(-0 11.88 552.915562)">B.  Experimental Evaluation (WP5 - WP7)</text>
+   </g>
+   <g id="text_29">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Times New Roman'; text-anchor: middle" x="316.8" y="580.806844" transform="rotate(-0 316.8 580.806844)">Experiment Framework</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 10.2px; font-family: 'Times New Roman'; text-anchor: middle" x="316.8" y="596.528625" transform="rotate(-0 316.8 596.528625)">configuration   |   load generation (handshake / request rate)   |   instrumentation and metrics   |   CSV results and plots</text>
+   </g>
+   <g id="patch_43">
+    <path d="M 316.8 512.82 
+Q 316.8 540.54 316.8 567.141966 
+" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 319.2 562.341966 
+L 316.8 567.141966 
+L 314.4 562.341966 
+z
+" style="stroke: #000000; stroke-linecap: round"/>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: start" x="321.552" y="533.032969" transform="rotate(-0 321.552 533.032969)">system under test</text>
+   </g>
+   <g id="text_32">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Times New Roman'; text-anchor: middle" x="112.86" y="654.679156" transform="rotate(-0 112.86 654.679156)">WP5: Performance Evaluation</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 10.2px; font-family: 'Times New Roman'" transform="translate(46.701844 670.580625)">Hybrid QKD-PQC vs pure-PQC</text>
+    <text style="font-size: 10.2px; font-family: 'Times New Roman'" transform="translate(96.149531 681.989006)">baseline</text>
+    <text style="font-size: 10.2px; font-family: 'Times New Roman'" transform="translate(32.687203 693.378262)">KEM variants (ML-KEM, FrodoKEM)</text>
+    <text style="font-size: 10.2px; font-family: 'Times New Roman'" transform="translate(66.261938 704.767519)">Latency and CPU time</text>
+    <text style="font-size: 10.2px; font-family: 'Times New Roman'" transform="translate(61.455984 716.1759)">(median, 95th percentile)</text>
+    <text style="font-size: 10.2px; font-family: 'Times New Roman'" transform="translate(63.077625 727.565156)">Wire size per handshake</text>
+    <text style="font-size: 10.2px; font-family: 'Times New Roman'" transform="translate(112.86 738.954412)"/>
+    <text style="font-size: 10.2px; font-family: 'Times New Roman'" transform="translate(58.753781 750.343669)">Output: benchmark results</text>
+   </g>
+   <g id="patch_44">
+    <path d="M 112.86 617.76 
+Q 112.86 629.64 112.86 640.401966 
+" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 115.26 635.601966 
+L 112.86 640.401966 
+L 110.46 635.601966 
+z
+" style="stroke: #000000; stroke-linecap: round"/>
+   </g>
+   <g id="patch_45">
+    <path d="M 112.86 778.14 
+Q 112.86 793.98 112.86 808.701966 
+" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 115.26 803.901966 
+L 112.86 808.701966 
+L 110.46 803.901966 
+z
+" style="stroke: #000000; stroke-linecap: round"/>
+   </g>
+   <g id="text_34">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Times New Roman'" transform="translate(257.866992 654.679156)">WP6: QKD Starvation /</text>
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Times New Roman'" transform="translate(268.71832 666.103148)">Bottleneck Analysis</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 10.2px; font-family: 'Times New Roman'" transform="translate(244.426219 683.846625)">QKD supply rate vs handshake rate</text>
+    <text style="font-size: 10.2px; font-family: 'Times New Roman'" transform="translate(285.355313 695.255006)">Key pool depth</text>
+    <text style="font-size: 10.2px; font-family: 'Times New Roman'" transform="translate(241.167797 706.663387)">Burst depletion (measured vs theory)</text>
+    <text style="font-size: 10.2px; font-family: 'Times New Roman'" transform="translate(254.060438 718.071769)">Steady-state QKD success rate</text>
+    <text style="font-size: 10.2px; font-family: 'Times New Roman'" transform="translate(259.725422 729.48015)">Starvation / bottleneck knee</text>
+    <text style="font-size: 10.2px; font-family: 'Times New Roman'" transform="translate(316.8 740.869406)"/>
+    <text style="font-size: 10.2px; font-family: 'Times New Roman'" transform="translate(265.239 752.258663)">Output: starvation results</text>
+   </g>
+   <g id="patch_46">
+    <path d="M 316.8 617.76 
+Q 316.8 629.64 316.8 640.401966 
+" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 319.2 635.601966 
+L 316.8 640.401966 
+L 314.4 635.601966 
+z
+" style="stroke: #000000; stroke-linecap: round"/>
+   </g>
+   <g id="patch_47">
+    <path d="M 316.8 778.14 
+Q 316.8 793.98 316.8 808.701966 
+" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 319.2 803.901966 
+L 316.8 808.701966 
+L 314.4 803.901966 
+z
+" style="stroke: #000000; stroke-linecap: round"/>
+   </g>
+   <g id="text_36">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Times New Roman'" transform="translate(459.897812 654.858844)">WP7: Mitigation / Policy</text>
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Times New Roman'" transform="translate(493.900078 666.097758)">Evaluation</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 10.2px; font-family: 'Times New Roman'" transform="translate(452.050969 683.846625)">Uncontrolled explicit downgrade,</text>
+    <text style="font-size: 10.2px; font-family: 'Times New Roman'" transform="translate(452.294813 695.255006)">per-peer quota, admission control</text>
+    <text style="font-size: 10.2px; font-family: 'Times New Roman'" transform="translate(445.957266 706.650478)">PQC-only fallback vs strict rejection</text>
+    <text style="font-size: 10.2px; font-family: 'Times New Roman'" transform="translate(459.693797 718.058859)">Policy comparison under load</text>
+    <text style="font-size: 10.2px; font-family: 'Times New Roman'" transform="translate(455.594672 729.467241)">Security / availability / resource</text>
+    <text style="font-size: 10.2px; font-family: 'Times New Roman'" transform="translate(501.006984 740.875622)">trade-offs</text>
+    <text style="font-size: 10.2px; font-family: 'Times New Roman'" transform="translate(451.473234 752.264878)">Output: policy comparison results</text>
+   </g>
+   <g id="patch_48">
+    <path d="M 520.74 617.76 
+Q 520.74 629.64 520.74 640.401966 
+" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 523.14 635.601966 
+L 520.74 640.401966 
+L 518.34 635.601966 
+z
+" style="stroke: #000000; stroke-linecap: round"/>
+   </g>
+   <g id="patch_49">
+    <path d="M 520.74 778.14 
+Q 520.74 793.98 520.74 808.701966 
+" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 523.14 803.901966 
+L 520.74 808.701966 
+L 518.34 803.901966 
+z
+" style="stroke: #000000; stroke-linecap: round"/>
+   </g>
+   <g id="text_38">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'Times New Roman'; text-anchor: start" x="11.88" y="824.175562" transform="rotate(-0 11.88 824.175562)">C.  Security Analysis and Validation (WP8)</text>
+   </g>
+   <g id="text_39">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Times New Roman'; text-anchor: middle" x="112.86" y="845.787937" transform="rotate(-0 112.86 845.787937)">Threat Model and Assumptions</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 10px; font-family: 'Times New Roman'" transform="translate(37.189688 861.70975)">Active network adversary (CK-style);</text>
+    <text style="font-size: 10px; font-family: 'Times New Roman'" transform="translate(39.527969 872.894437)">QKD and PQC security assumptions</text>
+   </g>
+   <g id="text_41">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Times New Roman'; text-anchor: middle" x="316.8" y="845.787937" transform="rotate(-0 316.8 845.787937)">Security Properties</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 10px; font-family: 'Times New Roman'" transform="translate(260.201563 861.70975)">Authentication, key secrecy,</text>
+    <text style="font-size: 10px; font-family: 'Times New Roman'" transform="translate(251.316406 872.894437)">forward secrecy, conditional ITS</text>
+   </g>
+   <g id="text_43">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Times New Roman'; text-anchor: middle" x="520.74" y="845.787937" transform="rotate(-0 520.74 845.787937)">Compromise Scenarios</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 10px; font-family: 'Times New Roman'" transform="translate(452.275156 861.70975)">None / QKD / KEM / both broken</text>
+    <text style="font-size: 10px; font-family: 'Times New Roman'" transform="translate(478.391563 872.875687)">(compromise matrix)</text>
+   </g>
+   <g id="text_45">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Times New Roman'; text-anchor: middle" x="112.86" y="903.207937" transform="rotate(-0 112.86 903.207937)">Security Game / Proof Outline</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 10px; font-family: 'Times New Roman'" transform="translate(47.96625 919.12975)">Game-hop argument over KEM,</text>
+    <text style="font-size: 10px; font-family: 'Times New Roman'" transform="translate(59.663125 930.314437)">KDF and MAC transitions</text>
+   </g>
+   <g id="text_47">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Times New Roman'; text-anchor: middle" x="316.8" y="903.207937" transform="rotate(-0 316.8 903.207937)">Downgrade Security and Validation</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 10px; font-family: 'Times New Roman'" transform="translate(251.675781 919.12975)">Explicit, transcript-bound mode;</text>
+    <text style="font-size: 10px; font-family: 'Times New Roman'" transform="translate(260.84375 930.295687)">tamper and downgrade tests</text>
+   </g>
+   <g id="text_49">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Times New Roman'; text-anchor: middle" x="520.74" y="903.036062" transform="rotate(-0 520.74 903.036062)">Limitations and Conclusions</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 10px; font-family: 'Times New Roman'" transform="translate(459.078281 919.12975)">PQC and QKD considerations,</text>
+    <text style="font-size: 10px; font-family: 'Times New Roman'" transform="translate(468.106406 930.295687)">residual risks, conclusions</text>
+   </g>
+   <g id="patch_50">
+    <path d="M 651.42 881.1 
+Q 640.53 881.1 630.758034 881.1 
+" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 635.558034 883.5 
+L 630.758034 881.1 
+L 635.558034 878.7 
+z
+" style="stroke: #000000; stroke-linecap: round"/>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 10px; font-family: 'Times New Roman'" transform="translate(659.752969 684.124531) rotate(-90)">protocol design, assumptions and security modes</text>
+   </g>
+   <g id="text_52">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'Times New Roman'; text-anchor: middle" x="316.8" y="997.284656" transform="rotate(-0 316.8 997.284656)">D.  Overall Results and Findings</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 10.2px; font-family: 'Times New Roman'" transform="translate(62.147438 1012.328625)">QKD-supply limits on handshake throughput   |   cost of hybrid vs pure PQC   |   effectiveness and cost of mitigation policies</text>
+    <text style="font-size: 10.2px; font-family: 'Times New Roman'" transform="translate(113.831156 1023.737006)">security guarantees and limitations   |   operational recommendation for QKD-backed key exchange</text>
+   </g>
+   <g id="patch_51">
+    <path d="M 316.8 956.34 
+Q 316.8 970.2 316.8 982.941966 
+" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 319.2 978.141966 
+L 316.8 982.941966 
+L 314.4 978.141966 
+z
+" style="stroke: #000000; stroke-linecap: round"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pa892c4e971">
+   <rect x="0" y="0" width="665.28" height="1037.52"/>
+  </clipPath>
+ </defs>
+</svg>
